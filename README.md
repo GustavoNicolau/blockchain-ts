@@ -1,2 +1,3 @@
-# node-ts-template
-Template project for a TS application (raw)
+# Blockchain em TS
+
+Blockchain desenvolvida para fins de estudo completamente em TS
